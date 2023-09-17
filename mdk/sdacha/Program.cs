@@ -16,7 +16,7 @@ namespace sdacha
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Form3());
         }
     }
     static class Database
@@ -29,7 +29,7 @@ namespace sdacha
         // Название таблицы пользователей
         public static string main = "Name";
         public static string Id = "Id";
-        public static string NameInfo= "Name ";
+        public static string NameInfo = "Name ";
 
     }
     static class Photo_table
@@ -39,5 +39,13 @@ namespace sdacha
         public static string Id = "Id";
         public static string Photo1 = "Photo1";
         public static string Photo2 = "Photo2";
+    }
+    static class Login_Table
+    {
+        // Название таблицы пользователей
+        public static string main = "User";
+        public static string Id = "ID";
+        public static string Login = "Login";
+        public static string Password = "Password";
     }
 }

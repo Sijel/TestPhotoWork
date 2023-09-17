@@ -45,3 +45,4 @@ C:\Users\Кирилл\Documents\GitHub\TestPhotoWork\mdk\sdacha\obj\Debug\sdacha
 C:\Users\Кирилл\Documents\GitHub\TestPhotoWork\mdk\sdacha\obj\Debug\sdacha.csproj.CopyComplete
 C:\Users\Кирилл\Documents\GitHub\TestPhotoWork\mdk\sdacha\obj\Debug\sdacha.exe
 C:\Users\Кирилл\Documents\GitHub\TestPhotoWork\mdk\sdacha\obj\Debug\sdacha.pdb
+C:\Users\Кирилл\Documents\GitHub\TestPhotoWork\mdk\sdacha\obj\Debug\sdacha.Form3.resources
