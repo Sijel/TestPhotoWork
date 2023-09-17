@@ -56,13 +56,17 @@ namespace sdacha
 
             reader.Close();
             readerPhoto.Close();
-            DB.Close();
 
             newForm.Show();
         }
         private void button1_Click(object sender, EventArgs e) 
         { 
             ShowPhoto(1);  
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            ShowPhoto(2);
         }
     }
 }
