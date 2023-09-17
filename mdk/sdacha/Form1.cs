@@ -73,5 +73,10 @@ namespace sdacha
         {
             ShowPhoto(3);
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            ShowPhoto(4);
+        }
     }
 }
